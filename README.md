@@ -1,5 +1,7 @@
 # Arquitectura de Datos y Dashboard Analítico sobre Nacimientos en Argentina (2005–2022)
 
+![Dashboard](screenshots/overview-general.png)
+
 ## 📌 Descripción del Proyecto
 
 Este proyecto fue desarrollado como trabajo integrador dentro de la Diplomatura en Bases de Datos de la UTN (Universidad Tecnológica Nacional).
