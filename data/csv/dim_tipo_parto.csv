@@ -1,0 +1,5 @@
+tipo_parto_key,tipo_de_parto_id,tipo_de_parto_nombre
+1,1,Simple
+2,2,Multiple
+3,9,Desconocido
+4,0,Desconocido
